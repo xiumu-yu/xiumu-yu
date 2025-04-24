@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 我是王郡佑
+
 中山大學雙主修企業管理學系
+
 R語言功課
+
 我要寫5行
+
 剩1行
 
 欸為甚麼最後顯示只有一行???
