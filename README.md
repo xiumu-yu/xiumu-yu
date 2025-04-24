@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 R語言功課
 我要寫5行
 剩1行
+
+欸為甚麼最後顯示只有一行???
+這樣有嗎
